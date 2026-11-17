@@ -1,4 +1,4 @@
-public class SlotToIndex {
+class SlotToIndex {
 	public static int[] convertSlot(int slot) {
 		int index = slot-1;
 		int row=index/3;
