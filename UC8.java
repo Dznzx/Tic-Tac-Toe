@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TicTacToe {
+class TicTacToe {
 
     static Scanner sc = new Scanner(System.in);
     public static boolean checkWin(char[][] b, char s) {

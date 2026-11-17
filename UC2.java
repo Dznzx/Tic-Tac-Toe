@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class TicTacToeToss {
+class TicTacToeToss {
     public static void main(String[] args) {
 
         Random rand = new Random();

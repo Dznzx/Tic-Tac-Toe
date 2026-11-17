@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UserInputUC3 {
+class UserInputUC3 {
 
     public static int getSlotInput() {
         Scanner sc = new Scanner(System.in);
