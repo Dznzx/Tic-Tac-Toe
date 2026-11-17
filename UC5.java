@@ -1,4 +1,4 @@
-public class MoveValidationUC5 {
+class MoveValidationUC5 {
     public static boolean isValidMove(char[][] board, int row, int col) {
 
         if (row < 0 || row > 2 || col < 0 || col > 2) {
