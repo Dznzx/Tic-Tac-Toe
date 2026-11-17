@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class TicTacToe {
+class TicTacToe {
     public static void updateBoard(char[][] board, int row, int col, char symbol) {
         board[row][col] = symbol;
     }
